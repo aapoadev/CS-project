@@ -1,5 +1,6 @@
 Week 1
-Prompt engineering = 5
-Hustling = 6
-Finessing = 4
-Risktaking = 9
+Prompt engineering (hard) 5
+Hustling (hard) 6
+Finessing (chill) 4
+Risktaking (chill) 9
+
