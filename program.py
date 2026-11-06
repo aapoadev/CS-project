@@ -13,5 +13,7 @@ def read_times(file_path):
     with open(file_path) as file:
         for line in file:
             words = line.split()
-            category = 
+            subject = words [0]
+            hardness_of_work = words[1]
+            times_practiced = words[2]
         
