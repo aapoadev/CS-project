@@ -1,0 +1,8 @@
+Plan  for the project:
+
+Data is a file for how many times you have practiced/trained something (decided later)
+
+Program reads the data and gives a report on how much you have trained and what and what days
+u havent etc, i can think of more stuff when i get to it
+
+Could use searching for the times you have trained and what. Class can be what you have trained.
